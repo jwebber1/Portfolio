@@ -1,9 +1,6 @@
 ![Jonathan Webber's Portfolio](code.png)
 
-# Jonathan Webber's Portfolio
-
-
- ## Examples of Projects
+ # Examples of Projects
 
 - [Weather Application](https://github.com/jwebber1/Weather-App)
     A weather application using Intellij/JavaFX that pulls xml from Wunderground to display the weather of a given city and state.
