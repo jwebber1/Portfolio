@@ -1,4 +1,4 @@
-![Jonathan Webber's Portfolio](code.jpeg)
+![Jonathan Webber's Portfolio](code.png)
 
 # Portfolio
 Jonathan Webber's Portfolio
