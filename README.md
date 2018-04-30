@@ -1,6 +1,8 @@
 ![Jonathan Webber's Portfolio](code.png)
 
  # Examples of Projects
+- [Walmart Comparison](https://github.com/jwebber1/WalmartComparison)
+    Compares items from Walmart using an api (https://developer.walmartlabs.com), a database (sqlite3), and an xml reading java program.
 
 - [Weather Application](https://github.com/jwebber1/Weather-App)
     A weather application using Intellij/JavaFX that pulls xml from Wunderground to display the weather of a given city and state.
