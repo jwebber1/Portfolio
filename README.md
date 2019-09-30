@@ -1,6 +1,10 @@
 ![Jonathan Webber's Portfolio](code.png)
 
  # Examples of Projects
+ 
+- [3D Wire Frame](https://github.com/jwebber1/3D_WireFrame)
+    A 3D wire frame in c++ of three characters and their interaction.
+    
 - [Walmart Comparison](https://github.com/jwebber1/WalmartComparison)
     Compares items from Walmart using an api (https://developer.walmartlabs.com), a database (sqlite3), and an xml reading java program.
 
@@ -16,5 +20,5 @@
 - [Sonar Eclipse Website](https://github.com/jwebber1/SonarEclipseWebsite)
     A website I create using html, css, javascript, and php for a class. It represents buying and selling instruments.
 
-- [Python Palindrome](https://github.com/jwebber1/PythonPalindrome)
-    When given a user-defined string, checks to see if that string is a palindrome or not.
+- [Python Powerset](https://github.com/jwebber1/PythonPowerSet)
+    A simply python program to create the powerset of a given set.
