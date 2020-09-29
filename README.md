@@ -21,4 +21,4 @@
     A website I create using html, css, javascript, and php for a class. It represents buying and selling instruments.
 
 - [Python Powerset](https://github.com/jwebber1/PythonPowerSet)
-    A simply python program to create the powerset of a given set.
+    A simple python program to create the powerset of a given set.
